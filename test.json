@@ -26,7 +26,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://www.jasonbase.com",
+        "url": "https://www.giveit2goodwill.org",
         "action": {
           "trigger": "visit"
         }
