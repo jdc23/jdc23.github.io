@@ -26,7 +26,7 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "Jesus is ALIVE!",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
@@ -45,7 +45,7 @@
                 },
                 {
                   "type": "label",
-                  "text": "{ ˃̵̑ᴥ˂̵̑}",
+                  "text": "<3 E>",
                   "style": {
                     "align": "center",
                     "font": "HelveticaNeue-Bold",
@@ -63,9 +63,9 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "Check out Live DEMO",
+              "text": "Check out Goodwills site",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/demo.json",
+                "url": "https://www.giveit2goodwill.org",
                 "fresh": "true"
               }
             },
